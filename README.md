@@ -220,14 +220,6 @@ echo ".env" >> .gitignore
 ```
 - Use environment variables or secret management for production
 
-## 📚 Resources
-
-- [LangChain Documentation](https://python.langchain.com/)
-- [GROQ Documentation](https://console.groq.com/docs)
-- [Ollama Models](https://ollama.ai/library)
-- [HuggingFace Sentence Transformers](https://www.sbert.net/)
-- [FAISS Vector Search](https://github.com/facebookresearch/faiss)
-
 ## 📝 License
 
 This project is provided as-is for educational purposes.
@@ -235,13 +227,6 @@ This project is provided as-is for educational purposes.
 ## 👤 Author
 
 **Zahrat-ElOula**
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report issues
-- Suggest improvements
-- Submit pull requests
 
 ---
 
